@@ -74,5 +74,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Feel free to reach out if you have any questions or suggestions!
 
-- **GitHub:** [https://github.com/your-username](https://github.com/fatoom9)
-- **LinkedIn:** [https://www.linkedin.com/in/your-profile](www.linkedin.com/in/fatima-zahraa-abu-reesh-8b9a342b7)
+- **GitHub:** [https://github.com/fatoom9](https://github.com/fatoom9)
+- **LinkedIn:** [https://ww.linkedin.com/in/fatima-zahraa-abu-reesh-8b9a342b7](www.linkedin.com/in/fatima-zahraa-abu-reesh-8b9a342b7)
