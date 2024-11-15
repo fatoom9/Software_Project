@@ -41,7 +41,7 @@ I'm thrilled to share that I recently presented my graduation project in **Compu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Techno-Sparks.git
+    git clone https://github.com/fatoom9/Techno-Sparks.git
     ```
 
 2. **For the mobile app:**
